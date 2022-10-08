@@ -10,3 +10,15 @@ body::before{
         width: 50%;
     }
 }
+
+.col-lg {
+
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+.col-lg #map-container {
+
+    height: fit-content !important;
+}
